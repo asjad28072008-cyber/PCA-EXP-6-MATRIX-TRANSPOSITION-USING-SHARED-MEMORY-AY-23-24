@@ -1,4 +1,4 @@
-<img width="1590" height="327" alt="image" src="https://github.com/user-attachments/assets/eed1ce89-552a-4c97-8b6f-82ce40e26945" /># PCA-EXP-6-MATRIX-TRANSPOSITION-USING-SHARED-MEMORY-AY-23-24
+# PCA-EXP-6-MATRIX-TRANSPOSITION-USING-SHARED-MEMORY-AY-23-24
 <h3>AIM:</h3>
 
 ### ENTER YOUR NAME: MUHAMMAD ASJAD E
